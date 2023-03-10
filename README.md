@@ -52,4 +52,4 @@ public class TriangleLB {
 }
 ```
 ## 실행화면
-![image](https://user-images.githubusercontent.com/106642094/224196054-504b2736-9f78-46cb-aaa4-3bdcca5ae120.png)
+![image](https://user-images.githubusercontent.com/106642094/224196116-3df09e6f-b106-4052-aa8d-86047a4b07b2.png)
